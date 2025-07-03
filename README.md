@@ -453,7 +453,7 @@ module.exports = {
 
 ## 📚 Documentation
 
-Visit our [Storybook documentation](https://yourusername.github.io/design-systemui) to:
+Visit our [Storybook documentation](https://akhibumear.github.io/design-systemui) to:
 
 - 📖 Browse all components and their variants
 - 🎮 Interactive playground with live code examples
@@ -467,7 +467,7 @@ Visit our [Storybook documentation](https://yourusername.github.io/design-system
 
 ```bash
 # Clone the repository
-git clone https://github.com/yourusername/design-systemui.git
+git clone https://github.com/akhibumear/design-systemui.git
 cd design-systemui
 
 # Install dependencies
@@ -521,7 +521,7 @@ We welcome contributions! Please see our [Contributing Guide](CONTRIBUTING.md) f
 
 ## 📄 License
 
-MIT © [Akhib](https://github.com/yourusername)
+MIT © [Akhib](https://github.com/akhibumear)
 
 ## 🙏 Acknowledgments
 
@@ -534,9 +534,9 @@ MIT © [Akhib](https://github.com/yourusername)
 
 <div align="center">
   
-**[📚 Documentation](https://yourusername.github.io/design-systemui)** • 
-**[🐛 Report Bug](https://github.com/yourusername/design-systemui/issues)** • 
-**[💡 Request Feature](https://github.com/yourusername/design-systemui/issues)**
+**[📚 Documentation](https://akhibumear.github.io/design-systemui)** • 
+**[🐛 Report Bug](https://github.com/akhibumear/design-systemui/issues)** • 
+**[💡 Request Feature](https://github.com/akhibumear/design-systemui/issues)**
 
 Made with ❤️ for the React community
 
