@@ -24,7 +24,8 @@
     "deploy:vercel": "vercel --prod",
     "deploy:netlify": "netlify deploy --prod --dir=storybook-static",
     "deploy:firebase": "firebase deploy",
-    "deploy:surge": "npm run build-storybook && surge storybook-static"
+    "deploy:surge": "npm run build-storybook && surge storybook-static",
+    "deploy:manual": "node scripts/deploy.js"
   },
   "keywords": [
     "react",
@@ -60,6 +61,7 @@
     "@vitejs/plugin-react": "^4.5.2",
     "autoprefixer": "^10.4.21",
     "babel-jest": "^30.0.0",
+    "gh-pages": "^6.3.0",
     "identity-obj-proxy": "^3.0.0",
     "jest": "^30.0.0",
     "jest-environment-jsdom": "^30.0.0",
